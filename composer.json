@@ -1,0 +1,21 @@
+{
+    "name": "inquid/yii2-mexico-zip-codes",
+    "description": "Mexico Zip Codes",
+    "type": "library",
+    "keywords": ["data","csv","json","mexico","zip","yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "inquid",
+            "email": "contact@inquid.co"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "inquid\\zipcodes\\": ""
+        }
+    }
+}
